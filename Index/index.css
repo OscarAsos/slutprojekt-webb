@@ -1,0 +1,136 @@
+﻿body {
+    /*margin-top:-20px;*/
+    background-color:#FFA1A1;
+}
+html{
+    padding:10px;
+}
+
+header {
+    background-color: #B4FF9F;
+    border-bottom: 2px solid black;
+    text-align:center;
+    line-height:100px;
+    
+
+    
+    
+}
+nav{
+    margin-top:-16px;
+    line-height:40px;
+    
+}
+article{
+    background-color:#000000;
+    border-top:2px solid black;
+    margin-top:-16px;
+
+}
+
+
+footer{
+    background-color:#f9ffa4;
+    width:100%;
+    border-top:2px solid black;
+    margin-top:-4px;
+
+}
+.OmOss{
+
+}
+a{
+    text-decoration:none;
+      color:inherit;
+        display:block;
+        
+        
+    
+}
+.center {
+    width:100%;
+    border-bottom:2px solid black;
+
+}
+
+
+footerbox1, li {
+    background-color:black;
+   display:block;
+   width:30%;
+}
+
+/*List css*/
+
+.firstlist {
+    width:100%;
+    display:table;
+    padding:0;
+    list-style-type:none;
+}
+.firstlist li {
+        padding: 10px 50px;
+        text-align: center;
+        display: inline-block;
+        background-color: #FFD59E;
+        list-style: none;
+        width: 10%;
+        height: 5%;
+        margin-left:30px;
+    }
+nav li:first-child{
+    margin-left:0px;
+    
+
+}
+nav li:last-child{
+    
+    margin-right:0px;
+    float:right;
+   
+}
+
+.firstlist li:hover {
+        background-color: white;
+        color: red;
+        
+
+}
+
+.secondlist li {
+    color: #00FF00;
+    display:block;
+    width: fit-content;
+    line-height: 100px 80px;
+}
+.contactlist li {
+    text-align: center;
+    width: 100%;
+    background-color: inherit;
+    color: #008000;
+}
+
+.secondlist li {
+    width: 100%;
+    height: revert;
+    text-align: center;
+    background-color: inherit;
+    color: #008000;
+}
+.grid-container {
+    grid-template: auto;
+    display: grid;
+    grid-column-gap: 50px;
+    grid-template-areas: "A B"
+}
+.footerbox2{
+    grid-area:B;
+}
+
+.footerbox1{
+    grid-area:A;
+    margin-left:-40px;
+}
+footer li:first-child {
+    background-color: #FFD59E;
+    color: #00008B;
