@@ -9,3 +9,19 @@ Idag så fick jag reda på att jag glömde fortfarande att lämna in mitt projektpla
 Hade lite problem med att meny listan och footer listan använde sig av samma kod men lyckades att fixa problemet med hjälp av Isak och Sevgi och nu är det bara att fortsätta att koda vidare dagen efter!
 
 Ytterligare problem med listan, känns som om att allting jag har arbetat med på projektet är att bara fixa listan men hursomhälst så får det bli som det blir eftersom jag måste fortsätta vidare. Blev även klar med min index sida på lektionen och måste bara fixa till att länka det till mina andra sidor som jag skall arbeta med.
+
+
+
+2022-06-11
+Äntligen!! Jag är klar! Har arbetat mycket på egen hand under lördagen och fredagen och lyckades att få allting att funka. Har även ändrat designen på hemsidorna så att de inte ser identiska ut då hemsidan för Män får var sin produkt i sina egna boxar och jag använde mig av photoshop för att se till att bilderna har samma storlek förhållande med dess liknande produkt. På det viset finns det ingen storleksskillnad och gör så att hemsidan ser finare ut.
+
+Jag har även också gjort så att istället för att det skall stå en rubrik för att få informationen om vilken sida man är på så har jag ändrat färgen på menyknappen med hjälp av li:nth child(n).
+
+Gjorde även också en Om Oss sida som har en video länk, ankare till toppen av sidan en tabell och även använder sig av bakgrundsfärgen #C4DDFF i article:n för att göra så att texten och sidan sticker ut lite mer. Beslutate även också att inte använda mig av min logga eftersom jag tycker att det inte passar så riktigt mycket in i hemsidan. Men om Sevgi vill att jag visar den så kan hon bara säga till :)
+
+I artikeln har jag även sett till att det finns en ankare till en annan hemsida, vilket som är ED's hemsida i detta fallet, samt en bild som har tagits med kameran och redigerats via photoshop då bilen orginellt var för stor för hemsidan då den hade storleken 1080x2148 px till 300 x 400 px då jag har klippt ut ansiktet men behållt samma bildkvalité.
+
+
+I helheten så skulle jag säga att jag är inte så jättenöjd med mitt slutresultat då jag tycker att jag kunde ha förbättrat min menyknapp eftersom jag lyckades inte att fixa problemet helt och hållet men behövde gå vidare med arbetet. Samt så kunde Om Oss sidan sett lite bättre ut i form av att innehållet är centrerat men har arbetat redan i 4 timmar sträck just nu och orkar inte att fixa ett ytterligare problem.
+
+I alla fall, hoppas att du tycker om min hemsida trotsallt och tack för denna terminen. Vi ses förhoppningsvis nästa år på Webbutveckling 2.
